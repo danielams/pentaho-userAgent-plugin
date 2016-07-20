@@ -1,0 +1,10 @@
+MyDateStep.Name=User Agent Parser
+MyDateStep.TooltipDesc=User Agent Parser
+
+Date.Error.UnableFindField=Unable to find the field
+Date.Error.NoNameField=No name for the field
+
+Dialog.Cancel=Cancel
+
+
+

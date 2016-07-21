@@ -6,7 +6,7 @@ Using for example the user agent string (Mozilla/5.0 (Windows NT 10.0; WOW64) Ap
 
 <img src='https://s31.postimg.org/o4qf8eoav/pdi_Step.png' border='0' alt='postimage' width='450px'/>
 <img src='https://s31.postimg.org/ncrfk61bb/window.png' border='0' alt='postimage' width='450px'/>
-<img src='https://s31.postimg.org/b7zb0cuwn/preview.png' border='0' alt='postimage' width='450px'/>
+<a href='https://postimg.org/image/b7zb0cuwn/' target='_blank'><img src='https://s31.postimg.org/b7zb0cuwn/preview.png' border='0' alt='postimage'/></a>
 
 #Build the project
 Clone the project and execute the command mvn package
